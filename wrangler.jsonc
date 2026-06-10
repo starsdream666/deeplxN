@@ -18,7 +18,7 @@
     }
   ],
   "main": "src/index.ts",
-  "name": "deeplx",
+  "name": "deeplxn",
   "observability": {
     "enabled": false,
     "head_sampling_rate": 1,
